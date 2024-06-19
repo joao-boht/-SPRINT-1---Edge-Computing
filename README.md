@@ -45,7 +45,7 @@ Cálculo e Exibição do Tempo de Volta: A diferença entre o tempo de início e
 Este sistema permite monitorar o tempo de volta dos carros em tempo real, fornecendo dados precisos para equipes e espectadores. Pode ser utilizado para análise de desempenho, otimização de estratégias de corrida e engajamento do público através de visualizações interativas.
 
 ## Como Rodar
-1. Acesse o [Wokwi](https://wokwi.com/).
+1. Acesse o [Wokwi](https://wokwi.com/projects/400872866089798657).
 2. Importe o projeto do GitHub.
 3. Execute a simulação para visualizar os dados coletados.
 4. acesse o video https://youtu.be/19eE4ixHsas?si=lwB1b8fIWTE2BH7t
